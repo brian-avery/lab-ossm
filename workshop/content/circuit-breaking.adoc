@@ -1,4 +1,5 @@
 = Circuit Breaking/Timeouts
+
 Istio provides opt-in failure recovery and fault injection features that you
 can configure dynamically at runtime. Using these features helps your
 applications operate reliably, ensuring that the service mesh can tolerate
